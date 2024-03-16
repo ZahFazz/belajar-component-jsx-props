@@ -93,3 +93,37 @@ Jangan lupa push dengan pesan commit: "W03: Jawaban soal 6".
 Catatan:
 
 Untuk memeriksa apakah perbaikan Anda berhasil, coba ubah nilai dari imageSize menjadi 'b'. Gambar harus menyesuaikan ukuran setelah diubah.
+
+![alt text](image-15.png)
+
+![alt text](image-16.png)
+
+
+## Soal 7
+![alt text](image-17.png)
+Jika kode di atas terdapat error, silakan diperbaiki.
+
+Komponen MyGallery ini berisi dua markup yang sama persis. Ekstraklah menjadi komponen MyProfile untuk mengurangi duplikasi. Anda perlu memilih props apa saja yang akan dikirimkan.
+
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+Jangan lupa push dengan pesan commit: "W03: Jawaban soal 7".
+
+
+## Soal 8
+Jika kode di atas terdapat error, silakan diperbaiki.
+
+Ubahlah komponen MyAvatar untuk diolah ukuran gambarnya berdasarkan prop size. Khususnya, jika size kurang dari 90, kirimkan 's' ("small") bukan 'b' ("big") pada fungsi getImageUrl. Pastikan bahwa perubahan yang Anda buat berjalan dengan cara me-render avatars dengan nilai prop size yang berbeda dan buka gambar pada tab baru di browser.
+
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+Jangan lupa push dengan pesan commit: "W03: Jawaban soal 8".
+
+## Soal 9
+Jika kode di atas terdapat error, silakan diperbaiki.
+
+Buatlah komponen Card dari kode di atas, lalu gunakan prop children untuk mengirimkan JSX yang berbeda.
+
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+Jangan lupa push dengan pesan commit: "W03: Jawaban soal 9".
